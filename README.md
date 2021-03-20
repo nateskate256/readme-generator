@@ -1,6 +1,10 @@
 # Nate's Read Me Generator
 
+https://www.youtube.com/watch?v=mqYUT5YsX50 \
+https://github.com/nateskate256/readme-generator
+
 <img src="https://user-images.githubusercontent.com/77896188/111852656-0ea46b00-88d5-11eb-8827-8965cadedd97.png">
+
 
 ## Your Task
 
